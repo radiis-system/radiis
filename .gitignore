@@ -12,4 +12,5 @@ Firmware/STM/platforms
 Firmware/ESP/.travis.yml
 Firmware/STM/appstate.json
 Firmware/STM/key_file.txt
-*/3D/*
+*.zip
+*3D*
