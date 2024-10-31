@@ -1,0 +1,15 @@
+docs/_build/*
+Software/Frontend/Dist/*
+*.bak
+*-bak
+node_modules*
+*.pio
+*.vscode
+external_libraries*
+Documentation/_build
+Firmware/STM/packages
+Firmware/STM/platforms
+Firmware/ESP/.travis.yml
+Firmware/STM/appstate.json
+Firmware/STM/key_file.txt
+*/3D/*
