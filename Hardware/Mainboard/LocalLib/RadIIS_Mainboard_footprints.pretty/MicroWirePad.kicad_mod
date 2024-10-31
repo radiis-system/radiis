@@ -1,0 +1,9 @@
+(module MicroWirePad (layer F.Cu) (tedit 5BCF7DDC)
+  (fp_text reference REF** (at 2.76 0.52) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MicroWirePad (at 5.65 -0.88) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+)
