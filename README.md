@@ -1,7 +1,7 @@
 # RadIIS - the Radioactive Isotope Identifying Spectrometer
-<img align="right" width="520" src="/Documentation/Pictures/RadIIS_Handheld.png">
 
 RadIIS is an open-source and industrial grade gamma spectrometer with automatic isotope identification.
+<img align="right" width="480" src="/Documentation/Pictures/RadIIS_Handheld.png">
 
 It can be used as a handheld device, connected to a mobile phone (or tablet, pc, …) or as a monitoring station with backup battery, wide-range power input and long-range data transfer (LoRa).
 
